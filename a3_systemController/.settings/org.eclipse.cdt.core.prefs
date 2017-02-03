@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.635206996/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.635206996/LD_LIBRARY_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.635206996/LD_LIBRARY_PATH/value=/usr/lib64/openmpi/lib\:/import/teaching/ECS732/arm-gcc/x86_64-linux-gnu/arm-linux-gnueabi/lib\:/import/teaching/ECS732/arm-gcc/lib/x86_64-linux-gnu
+environment/project/cdt.managedbuild.config.gnu.exe.debug.635206996/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.635206996/PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.debug.635206996/PATH/value=/import/teaching/ECS732/arm-gcc/bin
+environment/project/cdt.managedbuild.config.gnu.exe.debug.635206996/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.635206996/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.2009695247/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.release.2009695247/PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.release.2009695247/PATH/value=/import/teaching/ECS732/arm-gcc/bin
+environment/project/cdt.managedbuild.config.gnu.exe.release.2009695247/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.2009695247/appendContributed=true
